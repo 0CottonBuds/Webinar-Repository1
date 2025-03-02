@@ -1,15 +1,12 @@
 # Webinar-Repository1
 
-This is generated message used for presentation/demonstration purposes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ipsum lorem, imperdiet non felis ac, ultricies vestibulum risus. Vivamus sit amet molestie lorem. Etiam vitae neque ligula. Mauris nec pharetra elit. Nulla vitae massa lorem. Phasellus ut eleifend nulla. Curabitur ac egestas orci. In aliquet sapien eget neque commodo, at lobortis erat luctus. Phasellus id neque ac mi rhoncus iaculis. Donec lobortis tristique auctor. Vestibulum cursus sit amet turpis a aliquam. Donec finibus ac augue a aliquam. Nulla dignissim, lorem laoreet blandit placerat, diam erat viverra elit, nec varius risus nunc non sapien. Vestibulum vestibulum scelerisque metus, ut mattis felis ornare sed.
+# Commands we used for this webinar
 
-Duis tempor quam gravida justo convallis viverra. Donec et leo a neque volutpat fringilla at vel nisi. Proin enim dolor, faucibus sit amet turpis eget, placerat tempus quam. Nulla sollicitudin nulla aliquet rhoncus egestas. Vivamus ipsum sapien, cursus nec ullamcorper quis, tempor sit amet leo. Pellentesque eu tellus dolor. Ut fringilla augue sit amet velit mollis, sed hendrerit lacus laoreet. Sed et enim consectetur, consequat dolor nec, scelerisque elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lobortis tortor at urna ultrices, id consectetur tellus imperdiet. Sed interdum consequat ex et euismod. Cras mattis nunc risus, facilisis consequat enim efficitur volutpat. Sed cursus, libero porttitor convallis vulputate, purus turpis vehicula massa, a dapibus nulla est ac nunc. Duis non mi nec ex mattis ultrices eget vel velit. Morbi libero justo, fermentum eget odio sit amet, maximus ultrices ligula. Sed porta, quam a feugiat cursus, urna felis finibus nibh, ac maximus mauris nunc at sem.
+git clone [url]
 
-Vivamus scelerisque risus eu lobortis rutrum. Duis laoreet scelerisque elit nec tempus. Mauris accumsan volutpat libero sed venenatis. Integer convallis rutrum lacus at placerat. Integer in tincidunt est. Ut vel sodales erat, quis accumsan tellus. Aenean eu blandit neque. Sed lectus diam, gravida vel blandit venenatis, facilisis ut augue. In mattis nulla eu enim viverra, facilisis ornare enim blandit. Nulla euismod ornare odio vel venenatis. Integer egestas pellentesque velit, sit amet tincidunt eros rhoncus a. Aliquam congue purus sed sem ultrices, sed viverra arcu maximus. Integer nec urna ligula.
+git add [file]
+git commit -m [message]
+git push 
 
-Ut laoreet odio est, non venenatis metus accumsan non. Phasellus maximus quam dolor, quis pretium turpis maximus ac. Proin id leo ultrices, rhoncus neque id, aliquet velit. Duis volutpat ligula eget mollis pretium. Quisque sed quam magna. Integer id nisl fringilla quam congue iaculis ac quis lorem. Donec imperdiet magna turpis, id tempor magna aliquet sit amet. Phasellus cursus lorem a nibh semper, ut ultricies lorem semper. In ac tortor velit. Praesent ornare pellentesque nibh, quis congue arcu molestie et.
-
-Suspendisse potenti. Donec rhoncus commodo diam, a aliquam sapien laoreet et. Donec et bibendum sem. Donec lorem felis, semper at enim ut, cursus bibendum leo. Mauris vehicula sapien lobortis ex commodo, in iaculis nisl dignissim. Curabitur bibendum lobortis vulputate. In nec sodales mauris.
-
-Generated 5 paragraphs, 469 words, 3116 bytes of Lorem Ipsum
+git pull
