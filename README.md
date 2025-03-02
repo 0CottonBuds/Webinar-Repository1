@@ -10,5 +10,5 @@ This portion was edited using vscode on my machine
 git clone [url]
 
 git add [file]
-git commi -m [message]
+git commit -m [message]
 git push
